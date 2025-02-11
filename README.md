@@ -1,6 +1,8 @@
 ## Hi, I'm Krystof 👋
 
 - 💻 I’m coding daily in Ruby on Rails and React
-- 🏡 I'm working on hobby project called [Habitville](https://github.com/Laegas/habitville)
-- 🌱 I’m currently learning Go and Next.js
+- 🏡 I'm working on a hobby project called [HabitVille](https://github.com/Laegas/habitville)
+- 🌱 I’m currently learning Expo (React Native) and NextJS
 - 🇺🇸 I’m looking to work on something new and refreshing, preferably in US
+
+See my [full CV here]([url](https://github.com/Laegas/cv/blob/main/typst/cv.pdf)).

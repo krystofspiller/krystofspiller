@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Expo (React Native) and NextJS
 - 🇺🇸 I’m looking to work on something new and refreshing, preferably in US
 
-See my [full CV here]([url](https://github.com/Laegas/cv/blob/main/typst/cv.pdf)).
+See my [full CV here](https://github.com/Laegas/cv/blob/main/typst/cv.pdf).

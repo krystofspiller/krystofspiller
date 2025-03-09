@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Expo (React Native) and NextJS
 - 🇺🇸 I’m looking to work on something new and refreshing, preferably in US
 
-See my [homepage](https://krystofs.com) and [CV](https://laegas.github.io/cv/cv.pdf).
+See my [homepage](https://krystofs.com) and [CV](https://krystofspiller.github.io/cv/cv.pdf).
